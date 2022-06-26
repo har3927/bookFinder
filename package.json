@@ -1,0 +1,18 @@
+{
+  "name": "bookfinder",
+  "version": "1.0.0",
+  "description": "Search engine used to find books",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Harsha Vardhan Yella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
