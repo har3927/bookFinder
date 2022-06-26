@@ -1,6 +1,12 @@
+#main-body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 body{
-	background-color: #faf0e6;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 h1{
- color: black;
+    text-align: center;
 }
